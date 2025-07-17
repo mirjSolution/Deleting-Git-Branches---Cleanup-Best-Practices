@@ -71,3 +71,6 @@ If someone needs to make changes later:
 
 - Delete branches after merging.
 - Keep your repo clean and easy to manage.
+
+🧑‍💻 _Created by Rico John Dato-on_
+🔗 [LinkedIn](https://www.linkedin.com/in/rico-john-dato-on) • [Portfolio](https://ricodatoon.netlify.app)
